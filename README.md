@@ -2,7 +2,7 @@
 
 This repository serves as a preservation archive and mirror for the **JPS2** emulator, a PlayStation 2 emulator written in Java. The original project was hosted on the Google Code Archive (code.google.com/archive/p/jps2/).
 
-##Purpose
+## Purpose
 The goal of this repository is to ensure that the source code and working binary of the project are not lost, allowing the community to continue studying and using it.
 
 ## Repository Structure
