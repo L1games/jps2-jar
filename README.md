@@ -11,7 +11,7 @@ This project uses Apache Ant with the `build.xml` file. To compile the emulator:
 
 3. Once compilation is complete, you must manually move the resulting .jar file to the `/lib` folder of your project so it can locate the necessary dependencies.
 
-## Execution
+## 2. Execution
 Once the .jar file is in the /lib folder, initialize the emulator by running the batch file:
 
 On Windows: Double-click init.bat or run it from the terminal.
