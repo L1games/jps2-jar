@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/73/trunk/jps2/src/com/jps2/core/cpu/iop
+END
+IOPCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/iop/IOPCounter.java
+END
+IOP.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/71/trunk/jps2/src/com/jps2/core/cpu/iop/IOP.java
+END
+IOPMemoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/iop/IOPMemoryManager.java
+END
+IOPInstructions.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/57/trunk/jps2/src/com/jps2/core/cpu/iop/IOPInstructions.java
+END
+IOPDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/iop/IOPDecoder.java
+END
+IOPHardwareRegisters.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/73/trunk/jps2/src/com/jps2/core/cpu/iop/IOPHardwareRegisters.java
+END
+IOPCdvdRegisters.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/iop/IOPCdvdRegisters.java
+END

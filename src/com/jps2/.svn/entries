@@ -1,0 +1,52 @@
+10
+
+dir
+74
+http://jps2.googlecode.com/svn/trunk/jps2/src/com/jps2
+http://jps2.googlecode.com/svn
+
+
+
+2010-03-01T19:02:41.849652Z
+74
+dyorgio@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8af59bac-c343-11de-a499-5376f3b8b106
+
+gui
+dir
+
+net
+dir
+
+filesystems
+dir
+
+format
+dir
+
+core
+dir
+
+resources
+dir
+
+util
+dir
+
+plugins
+dir
+

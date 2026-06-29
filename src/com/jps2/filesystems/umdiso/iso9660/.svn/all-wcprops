@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/filesystems/umdiso/iso9660
+END
+Iso9660Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/filesystems/umdiso/iso9660/Iso9660Handler.java
+END
+Iso9660File.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/filesystems/umdiso/iso9660/Iso9660File.java
+END
+Iso9660Directory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/filesystems/umdiso/iso9660/Iso9660Directory.java
+END

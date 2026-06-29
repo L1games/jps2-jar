@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/73/trunk/jps2/src/com/jps2/core/cpu/ee/state
+END
+MduState.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/57/trunk/jps2/src/com/jps2/core/cpu/ee/state/MduState.java
+END
+CpuState.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/trunk/jps2/src/com/jps2/core/cpu/ee/state/CpuState.java
+END
+GprState.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/ee/state/GprState.java
+END
+SauState.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/68/trunk/jps2/src/com/jps2/core/cpu/ee/state/SauState.java
+END
+BcuState.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/70/trunk/jps2/src/com/jps2/core/cpu/ee/state/BcuState.java
+END
+FpuState.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/57/trunk/jps2/src/com/jps2/core/cpu/ee/state/FpuState.java
+END
+VfpuState.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/57/trunk/jps2/src/com/jps2/core/cpu/ee/state/VfpuState.java
+END
+MmiState.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/69/trunk/jps2/src/com/jps2/core/cpu/ee/state/MmiState.java
+END
+LsuState.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/57/trunk/jps2/src/com/jps2/core/cpu/ee/state/LsuState.java
+END

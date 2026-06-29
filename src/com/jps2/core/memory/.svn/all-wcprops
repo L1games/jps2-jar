@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/73/trunk/jps2/src/com/jps2/core/memory
+END
+AbstractMemoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/memory/AbstractMemoryManager.java
+END
+Memory.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/memory/Memory.java
+END
+MemoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/memory/MemoryManager.java
+END
+FastMemory.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/73/trunk/jps2/src/com/jps2/core/memory/FastMemory.java
+END

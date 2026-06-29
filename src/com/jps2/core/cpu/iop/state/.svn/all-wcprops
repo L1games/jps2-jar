@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/71/trunk/jps2/src/com/jps2/core/cpu/iop/state
+END
+LsuState.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/iop/state/LsuState.java
+END
+MduState.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/iop/state/MduState.java
+END
+CpuState.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/trunk/jps2/src/com/jps2/core/cpu/iop/state/CpuState.java
+END
+GprState.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/50/trunk/jps2/src/com/jps2/core/cpu/iop/state/GprState.java
+END
+BcuState.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/trunk/jps2/src/com/jps2/core/cpu/iop/state/BcuState.java
+END

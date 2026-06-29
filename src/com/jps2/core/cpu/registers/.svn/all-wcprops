@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/73/trunk/jps2/src/com/jps2/core/cpu/registers
+END
+Register32bits.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/registers/Register32bits.java
+END
+ZeroRegister32bits.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/registers/ZeroRegister32bits.java
+END
+CP0StatusRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/registers/CP0StatusRegister.java
+END
+GeneralPorpuseRegister64bits.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/registers/GeneralPorpuseRegister64bits.java
+END
+GeneralPorpuseRegister128bits.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/73/trunk/jps2/src/com/jps2/core/cpu/registers/GeneralPorpuseRegister128bits.java
+END
+Register64bits.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/registers/Register64bits.java
+END
+ZeroRegister64bits.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/registers/ZeroRegister64bits.java
+END
+Register128bits.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/registers/Register128bits.java
+END
+ZeroRegister128bits.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/registers/ZeroRegister128bits.java
+END
+CP0Register.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/registers/CP0Register.java
+END
+GeneralPorpuseRegister32bits.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/registers/GeneralPorpuseRegister32bits.java
+END

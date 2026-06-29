@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/65/trunk/jps2/src/com/jps2/util
+END
+Utilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/util/Utilities.java
+END
+Bios.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/65/trunk/jps2/src/com/jps2/util/Bios.java
+END
+ConfigManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/util/ConfigManager.java
+END
+SystemInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/64/trunk/jps2/src/com/jps2/util/SystemInfo.java
+END
+ResourceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/util/ResourceManager.java
+END

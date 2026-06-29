@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/56/trunk/jps2/src/com/jps2/plugins
+END
+Plugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/jps2/src/com/jps2/plugins/Plugin.java
+END
+AbstractFirewirePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/24/trunk/jps2/src/com/jps2/plugins/AbstractFirewirePlugin.java
+END
+PluginType.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/20/trunk/jps2/src/com/jps2/plugins/PluginType.java
+END
+NullSpu2.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/plugins/NullSpu2.java
+END
+AbstractPadPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/20/trunk/jps2/src/com/jps2/plugins/AbstractPadPlugin.java
+END
+PluginManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/plugins/PluginManager.java
+END
+AbstractGSPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/54/trunk/jps2/src/com/jps2/plugins/AbstractGSPlugin.java
+END
+AbstractUsbPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/24/trunk/jps2/src/com/jps2/plugins/AbstractUsbPlugin.java
+END
+AbstractSpu2Plugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/24/trunk/jps2/src/com/jps2/plugins/AbstractSpu2Plugin.java
+END

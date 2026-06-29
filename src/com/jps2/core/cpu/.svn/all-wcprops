@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/73/trunk/jps2/src/com/jps2/core/cpu
+END
+Cpu.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/Cpu.java
+END
+Common.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/57/trunk/jps2/src/com/jps2/core/cpu/Common.java
+END
+ExcCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/ExcCode.java
+END
+DataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/47/trunk/jps2/src/com/jps2/core/cpu/DataType.java
+END
+CpuRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/71/trunk/jps2/src/com/jps2/core/cpu/CpuRunnable.java
+END
+Processor.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/71/trunk/jps2/src/com/jps2/core/cpu/Processor.java
+END
+Memories.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/54/trunk/jps2/src/com/jps2/core/cpu/Memories.java
+END

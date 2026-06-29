@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/20/trunk/jps2/lib/native
+END
+libopenal64.so
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/20/trunk/jps2/lib/native/libopenal64.so
+END
+liblwjgl64.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/20/trunk/jps2/lib/native/liblwjgl64.so
+END
+OpenAL64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/20/trunk/jps2/lib/native/OpenAL64.dll
+END
+lwjgl64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/20/trunk/jps2/lib/native/lwjgl64.dll
+END
+jinput-raw.dll
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/20/trunk/jps2/lib/native/jinput-raw.dll
+END
+liblwjgl.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/20/trunk/jps2/lib/native/liblwjgl.jnilib
+END
+libjinput-linux.so
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/20/trunk/jps2/lib/native/libjinput-linux.so
+END
+libjinput-osx.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/20/trunk/jps2/lib/native/libjinput-osx.jnilib
+END
+openal.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/20/trunk/jps2/lib/native/openal.dylib
+END
+jinput-dx8.dll
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/20/trunk/jps2/lib/native/jinput-dx8.dll
+END
+libopenal.so
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/20/trunk/jps2/lib/native/libopenal.so
+END
+liblwjgl.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/20/trunk/jps2/lib/native/liblwjgl.so
+END
+libjinput-linux64.so
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/20/trunk/jps2/lib/native/libjinput-linux64.so
+END
+lwjgl.dll
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/20/trunk/jps2/lib/native/lwjgl.dll
+END
+OpenAL32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/20/trunk/jps2/lib/native/OpenAL32.dll
+END

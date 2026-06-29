@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/65/trunk/jps2/lib
+END
+jinput.jar
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/20/trunk/jps2/lib/jinput.jar
+END
+lwjgl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/20/trunk/jps2/lib/lwjgl.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/20/trunk/jps2/lib/log4j-1.2.15.jar
+END
+mac-integration.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/65/trunk/jps2/lib/mac-integration.jar
+END
+forms-1.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/20/trunk/jps2/lib/forms-1.2.1.jar
+END
+mac_widgets-0.9.6-beta.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/20/trunk/jps2/lib/mac_widgets-0.9.6-beta.jar
+END
+jgz-0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/20/trunk/jps2/lib/jgz-0.2.jar
+END
