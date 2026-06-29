@@ -13,7 +13,7 @@ The goal of this repository is to ensure that the source code and working binary
 ## License
 This project is distributed under the **GNU GPL v3** license. You can consult the `LICENSE` file in this repository for more details about your rights and obligations when using this software.
 
-##Credits
+## Credits
 * Based on the original work of [jps2].
 
 * Based on components from `pcsx2` and `jpcsp`.
