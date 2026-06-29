@@ -20,7 +20,7 @@ Note: If you experience runtime issues, verify that your JAVA_HOME environment v
 
 ---
 
-##Credits
+## Credits
 * Based on the original work of [jps2].
 
 * Based on components from `pcsx2` and `jpcsp`.
